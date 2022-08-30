@@ -77,11 +77,24 @@ SECCIÓN 18–1 Filtros pasabajas
 
 ![image](https://user-images.githubusercontent.com/105671364/187490879-20ea2ea0-7807-4a91-8314-1d118b501f87.png)
 
+![image](https://user-images.githubusercontent.com/105671364/187495547-4092c12d-e5b1-4ea8-aa71-231181cebe6c.png)
+
 
 # Video
 
+https://youtu.be/XgfhbMlRPX8
+
 # Conclusiones
+-  Es importante el saber las principales caracteristica  de todos los filtros pasivos con los cuales  podremos identifar las principales diferencias  de cada uno.
+-  Es fundamental poner en practica todos lo aprendido  a lo largo de circuitos electricos ya que con los fundamentos claros y identificando las principales caracteristicas se lograra un mejor resultado  al rato de aplicarlos.
+-  Poner en prctica todas las caracteristicas de un circuito RL- RC y RLC con sus principales caracteristicas.
 
 # Bibliografia
+
+Turmero, P. (2016, julio 21). Función Senoidal y Fastor. Monografias.com. https://www.monografias.com/trabajos109/funcion-senoidal-y-fastor/funcion-senoidal-y-fastor
+
+ Definicion de Circuito RLC. (s/f). Com.ar. Recuperado el 30 de agosto de 2022, de https://www.alegsa.com.ar/Dic/circuito_rlc.php
+
+ Principios de circuitos electricos Floyd-protegido.pdf. Google Docs. Recuperado el 26 de mayo de 2022, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 
